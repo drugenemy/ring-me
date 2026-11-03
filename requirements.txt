@@ -1,0 +1,6 @@
+py-tgcalls==3.0.0
+telethon>=1.36,<2
+aiohttp>=3.9,<4
+numpy>=1.26
+soxr>=0.3
+tzdata>=2024.1
